@@ -2,7 +2,7 @@
 Backup configuration file of my MikroTik hEX router for my first paid networking project. I made this setup for the Restoraunt network. This backup includes interface setup, IP addresses, DHCP settings, and basic firewall rules.
 # MikroTik First Project – RouterOS Backup
 
-This repository contains the full binary backup of my MikroTik hEX router, exported as part of my home network configuration learning process.
+This repository contains the full binary backup of my MikroTik hEX router, exported as part of my network configuration learning process.
 
 ## 📁 File
 
